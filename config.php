@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "film_kulubu_db";
+$servername = "sql204.infinityfree.com";
+$username = "if0_36633104";
+$password = "a7eEi20QPRy4t";
+$dbname = "if0_36633104_film_kulubu_db";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
